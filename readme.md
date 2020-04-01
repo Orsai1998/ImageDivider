@@ -15,11 +15,10 @@ if you don't have docker install it</p>
 <p><code>nano .env</code></p>
 
 <h4>6 step:</h4>
-<p>
-    <code>DB_CONNECTION=mysql</code>
-    <code>DB_HOST=<strong>db</strong> </code>
-    <code>DB_PORT=3306</code>
-    <code>DB_DATABASE=<strong>laravel</strong>
-    <code>DB_USERNAME=<strong>laraveluser</strong><code>
-    <code>DB_PASSWORD=<strong>your_laravel_db_password</strong><code>
-</p>
+   <p><code>DB_CONNECTION=mysql</code></p>
+   <p><code>DB_HOST=<strong>db</strong> </code></p>
+   <p> <code>DB_PORT=3306</code></p>
+   <p><code>DB_DATABASE=<strong>laravel</strong></p>
+   <p><code>DB_USERNAME=<strong>laraveluser</strong><code></p>
+   <p> <code>DB_PASSWORD=<strong>your_laravel_db_password</strong><code></p>
+
