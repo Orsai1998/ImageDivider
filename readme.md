@@ -42,4 +42,4 @@ if you don't have docker install it</p>
 
 <p><code>docker-compose exec app php artisan migrate</code></p>
 
-<p>If you need link storage just type <code>docker-compose exec app php artisan storage:link</code></p>
+<p>If you need to link storage just type <code>docker-compose exec app php artisan storage:link</code></p>
